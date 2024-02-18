@@ -1,6 +1,6 @@
 # todo-app
 
- This todo-app is the first project in the [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course)
+
  
 ## Screenshot
 
